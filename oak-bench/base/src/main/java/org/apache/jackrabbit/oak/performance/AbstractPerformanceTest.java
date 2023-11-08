@@ -35,7 +35,7 @@ import org.apache.jackrabbit.oak.jcr.Jcr;
  * This class calls all known performance tests.
  */
 public abstract class AbstractPerformanceTest {
-
+System.out.println("I love cats!");
     /**
      * The warmup time, in ms.
      */
